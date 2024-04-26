@@ -1,0 +1,22 @@
+{
+    "Peliculas": [
+        {
+            "id": 1,
+            "nombre": "Goodfellas",
+            "director": "Martin Scorsese",
+            "año": 1990
+        },
+        {
+            "id": 2,
+            "nombre": "Casino",
+            "director": "Martin Scorsese",
+            "año": 1995
+        },
+        {
+            "id": 3,
+            "title": "The Truman Show",
+            "author": "Peter Weir",
+            "año": 1998
+        }
+    ]
+}
